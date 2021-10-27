@@ -23,7 +23,7 @@ curl -O https://raw.githubusercontent.com/SystematicError/palette/main/palette
 curl -O https://raw.githubusercontent.com/SystematicError/palette/main/palette-slim
 
 # Making it an executable
-chmod +x palatte
+chmod +x palette
 chmod +x palette-slim
 
 # Adding to path (optional)
