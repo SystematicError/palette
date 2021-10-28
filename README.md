@@ -7,8 +7,8 @@
 </h3>
 
 <h3 align="center">
-    <img src="https://i.imgur.com/a2MSYom.png">
-    <img src="https://i.imgur.com/ischasn.png">
+    <img src="https://i.imgur.com/a2MSYom.png" width=100%>
+    <img src="https://i.imgur.com/ischasn.png" width=100%>
 </h3>
 
 ### About Palette
