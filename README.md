@@ -15,6 +15,8 @@
 Palette is a simple bash script used to test your terminal's base16 colorscheme, useful when you are trying to make your
 own theme or to test a theme's readability. The code is a slightly tweaked vesion of [colortest](https://github.com/pablopunk/colortest).
 
+**Note:** You may need a [Nerd Font](https://www.nerdfonts.com/) to render the dot characters
+
 ### Installation
 ```
 # Downloading both the scripts
